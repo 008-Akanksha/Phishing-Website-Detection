@@ -1,1 +1,1 @@
-# Phishing-Website-Detection
+# A phishing website is a common social engineering method that mimics trustful uniform resource locators (URLs) and webpages. The objective of this project is to train machine learning models and deep neural nets on the dataset created to predict phishing websites.
